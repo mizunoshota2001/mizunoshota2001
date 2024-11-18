@@ -1,29 +1,26 @@
-<table style="margin:0; padding:0; border: none; border-collapse: collapse;">
+<table>
   <tr>
-    <td colspan="2" style="margin:0; padding:0; border: none;">
+    <td colspan="2">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizunoshota2001&theme=github_dark"
-        width="100%"
-        style="margin:0; padding:0; border: none;"
         alt="Profile Details"
+        width="100%"
       />
     </td>
   </tr>
   <tr>
-    <td style="margin:0; padding:0; border: none;">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizunoshota2001&theme=github_dark&utcOffset=8"
-        width="100%"
-        style="margin:0; padding:0; border: none;"
-        alt="Productive Time"
-      />
-    </td>
-    <td style="margin:0; padding:0; border: none;">
+    <td>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizunoshota2001&theme=github_dark"
-        width="100%"
-        style="margin:0; padding:0; border: none;"
         alt="Repos Per Language"
+        width="100%"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizunoshota2001&theme=github_dark&utcOffset=8"
+        alt="Productive Time"
+        width="100%"
       />
     </td>
   </tr>
